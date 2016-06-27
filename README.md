@@ -6,20 +6,25 @@ Android第三方框架
 >   github地址：https://github.com/houshuai0816
 
 以下是第三方框架(自己总结的)  不断更新Ing
+  ------
 ## 下拉刷新框架
 |序号| 项目名称和简介  | 预览| 
 |-------------| :----------| :-------------| 
 |1|[Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh)<br>下拉刷新| ![](https://github.com/chrisbanes/Android-PullToRefresh/raw/master/header_graphic.png) |
+  -----
 ## 线程框架
 |序号| 项目名称和简介  | 预览| 
 |-------------| :----------| :-------------| 
 |1|[RxJava](https://github.com/JakeWharton/RxJava)<br>强大的异步| ![]() |
 |2|[RxJava bindings for Android](https://github.com/ReactiveX/RxAndroid)Rx的拓展| ![]() |
+  -----
 ## 网络框架
 |序号| 项目名称和简介  | 预览| 
 |-------------| :----------| :-------------| 
 |1|[okhttp](https://github.com/square/okhttp)<br>网络传输框架| ![]() |
 |2|[Retrofit](https://github.com/square/retrofit)网络传输框架| ![]() |
+|3|[android-async-http](https://github.com/loopj/android-async-http)网络传输框架| ![](https://camo.githubusercontent.com/bf67e142e8f7055f20f01957d5a630740cd0f631/68747470733a2f2f7472617669732d63692e6f72672f6c6f6f706a2f616e64726f69642d6173796e632d687474702e706e673f6272616e63683d6d6173746572) |
+  -----
 ## 图片框架
 |序号| 项目名称和简介  | 预览| 
 |-------------| :----------| :-------------| 
@@ -27,25 +32,35 @@ Android第三方框架
 |2|[Picasso](https://github.com/square/picasso)一个强大的<br>图片缓存和下载| ![](https://github.com/square/picasso/raw/master/website/static/sample.png) |
 |3|[CircleImageView](https://github.com/hdodenhof/CircleImageView)图片圆角化| ![](https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67) |
 |4|[Compressor](https://github.com/zetbaitsu/Compressor)图片压缩| ![](https://raw.githubusercontent.com/zetbaitsu/Compressor/master/ss.png) |
+ -----
 ## 二维码框架
 
 |序号| 项目名称和简介  | 预览| 
 |-------------| :----------| :-------------| 
 |1|[Zxing](https://github.com/zxing/zxing)<br>二维码扫描| ![](https://camo.githubusercontent.com/cd92fcc87ebc531c60edc667da4a77b90c004ff0/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f7a78696e672f7a78696e672f7a78696e672d6c6f676f2e706e67) |
+|2|[zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded)|![]()|
+|3|[]()|![]()|
+  -----
 ## 自定义框架
 |序号| 项目名称和简介  | 预览| 
 |-------------| :----------| :-------------| 
 |1|[Android ViewBadger](https://github.com/jgilfelt/android-viewbadger)<br>提示效果| ![](https://camo.githubusercontent.com/a705a3e88c75ae2394943bd7c56f725697616ea8/687474703a2f2f7777772e6a65666667696c66656c742e636f6d2f766965776261646765722f76622d31612e706e67) |
 |2|[FloatingToolbar](https://github.com/rubensousa/FloatingToolbar) </br>FloatingActionBar的自定义拓展| ![](https://github.com/rubensousa/FloatingToolbar/raw/master/screenshots/demo.gif) |
+|3|[Android ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)viewpager|![](https://camo.githubusercontent.com/240ee2f3ebda5f20f73a5750c192a28743227816/68747470733a2f2f7261772e6769746875622e636f6d2f4a616b6557686172746f6e2f416e64726f69642d566965775061676572496e64696361746f722f6d61737465722f73616d706c652f73637265656e732e706e67)|
+|4|[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|![](https://camo.githubusercontent.com/a9eaa5fc7fb6c1e70b22acd09385055e0f5c4fe7/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f73696d706c6564657369676e5f6c696e656368617274342e706e67)|
+|5|[QuickSideBar](https://github.com/saiwu-bigkoo/Android-QuickSideBar)帮助快速查阅对应分组的侧边栏，可以配合任意列表，demo中给出配合RecyclerView(浮动分组使用stickyheadersrecyclerview)。| ![](https://github.com/saiwu-bigkoo/Android-QuickSideBar/raw/master/preview/quicksidebardemo.gif) |
+  -----
 ## 数据库框架
 |序号| 项目名称和简介  | 预览| 
 |-------------| :----------| :-------------| 
 |1|[greenDAO](https://github.com/greenrobot/greenDAO)| ![]() |
+  -----
 ## 界面框架
 |序号| 项目名称和简介  | 预览| 
 |-------------| :----------| :-------------| 
 |1|[Android System Bar Tint](https://github.com/jgilfelt/SystemBarTint)<br>沉腻式导航栏(4.4)| ![](https://camo.githubusercontent.com/fbbeaab2048f78e2d4974bb1559544c9f22eccae/68747470733a2f2f7261772e6769746875622e636f6d2f6a67696c66656c742f53797374656d42617254696e742f6d61737465722f73637265656e73686f742e706e67) |
 |2|[butterknife](https://github.com/JakeWharton/butterknife)黄油刀(注解机制)| ![](https://github.com/JakeWharton/butterknife/raw/master/website/static/logo.png) |
+ -----
 ## RecycleView框架
 |序号| 项目名称 |项目描述 | 预览| 
 |-------------| :----------- |:----------| :-------------| 
@@ -74,11 +89,19 @@ Android第三方框架
 |24|[drakeet](https://github.com/drakeet)/**[RecyclerViewWithHeaderNewPractice](https://github.com/drakeet/RecyclerViewWithHeaderNewPractice)**|很新颖的一种header实现|[![](https://github.com/drakeet/RecyclerViewWithHeaderNewPractice/raw/master/demo.gif)](https://github.com/drakeet/RecyclerViewWithHeaderNewPractice/blob/master/demo.gif)|
 |25|[YoKeyword](https://github.com/YoKeyword)/**[ItemTouchHelperDemo](https://github.com/YoKeyword/ItemTouchHelperDemo)**|使用ItemTouchHelper实现今日头条 网易新闻 的频道排序、频道移动|[![ItemTouchHelperDemo](https://camo.githubusercontent.com/ffdf764e108d0e9dcd9d24da20f71d8ff0957b75/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3933373835312d326466353066663938333364643338362e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)](https://camo.githubusercontent.com/ffdf764e108d0e9dcd9d24da20f71d8ff0957b75/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3933373835312d326466353066663938333364643338362e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)|
 |26|[HoneyNeutrons](https://github.com/HoneyNeutrons)/**[RecyclerViewUndoSwipe](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe)**|利用 ItemTouch helper实现的。滑动和拖拽效果的任务app|![RecyclerViewUndoSwipe](https://camo2.githubusercontent.com/633c9f0144b49b6a90edb18e44361f843010cd0f/687474703a2f2f696d6775722e636f6d2f523931554a716c2e676966)|
-## AndroidStudio插件
+  -----
+## 传感器框架和成品
 |序号| 项目名称和简介  | 预览| 
 |-------------| :----------| :-------------| 
-|1|[]()| ![]() |
+|1|[S Tools+](https://github.com/naman14/S-Tools)| ![](https://raw.githubusercontent.com/naman14/S-Tools/master/graphics/nexus5_1upsensor.png) |
 |2|[]()| ![]() |
 |3|[]()| ![]() |
+  -----
+## 简历书写
+|序号| 项目名称和简介  | 预览| 
+|-------------| :----------| :-------------| 
+|1|[简历书写](https://github.com/geekcompany/ResumeSample)| ![](https://camo.githubusercontent.com/c7ac946364be49944021dab02108751afdd1fd43/687474703a2f2f7777772e6a6f62646565722e636f6d2f696d672f72642e706e67) |
 
-##以上都是个人总结(方便以后使用)
+##以上都是个人总结(方便以后使用)  
+* 由于Android的第三方框架越来越多,欢迎朋友Fork我的项目提交好用的框架
+* 同时希望我的共享,可以帮助你找到解决目前项目的好方法.
